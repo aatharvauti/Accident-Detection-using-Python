@@ -4,3 +4,4 @@ Detection of road accidents through CCTV cameras using Python modules OpenCV, an
 ### Made by
 - Vivek Mishra
 - Atharva Auti
+- Jay Makwana
